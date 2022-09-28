@@ -1,2 +1,2 @@
 # Full-Data-Science-Analysis-Projects
-Full Data Science/Analysis Project from Data Cleaning to final outcomes
+Data science/ Data Analysis Project during intial phase
